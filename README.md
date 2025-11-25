@@ -8,7 +8,7 @@ A centralized repository to track and manage all Poke automations.
 |:-------------:|:----------------|:------------|:------:|:--------------|:-----------|:-----|
 | 1 | Travel Prep Automation | Scans for travel bookings and creates reminders | Active | Every Friday 9 AM IST | caf7d709-8278-40a3-aed1-cf01c3fc940a | trigger based automation |
 | 2 | Weather Automation | Check weather forecast for Sarjapur, send notification if rain chance > 60% | Active | Every day 8 AM IST | 7da1037d-ebda-481b-b25e-b8b88ddea5ef | time based recurring |
-| 3 | Credit Card Bills Consolidation | Scans both email accounts daily for credit card statements, collects them throughout month, and creates ONE reminder on the 25th of each month with all bills consolidated | Active | Monthly on the 25th at 9:00 AM IST | f6274ffc-2b51-436e-b7c8-ae3a8b3a8568 | trigger based automation |
+| 3 | Credit Card Bills Consolidation | Scans both email accounts daily for credit card statements, collects them throughout month, and creates ONE reminder on the 25th of each month with all bills consolidated | Active | Last weekday of each month at 9:00 AM IST | f6274ffc-2b51-436e-b7c8-ae3a8b3a8568 | trigger based automation |
 | 4 | Kolkata Trip - Packing Reminder | Finalize packing and check-in for flight to Kolkata | Active | Nov 26, 2025 8:15 PM IST | 261eff93-e4e9-4c25-bd8d-840882e610ba | one-time |
 | 5 | Kolkata Trip - Cab Booking | Book cab to Kolkata for flight departure | Active | Nov 27, 2025 4:15 PM IST | 0815549d-051d-42ca-aa63-cc3fda90e06a | one-time |
 | 6 | Bengaluru Return - Packing Reminder | Finalize packing and check-in for flight to Bengaluru | Active | Nov 27, 2025 4:25 PM IST | d2f72b80-5cd8-4eee-b53b-878fb74230bf | one-time |
@@ -52,4 +52,4 @@ A centralized repository to track and manage all Poke automations.
 
 ---
 
-*Last updated: November 24, 2025*
+*Last updated: November 25, 2025*
